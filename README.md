@@ -3,13 +3,13 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-![NOTE] This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when you that deliverable is submitted in Canvas. Without you adding a section for a deliverable the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
+[!NOTE] This is a template for your startup application. You must modify this `README.md` file for each phase of your development. You only need to fill in the section for each deliverable when you that deliverable is submitted in Canvas. Without you adding a section for a deliverable the TA will not know what to look for when grading your submission. Feel free to add additional information to each deliverable description, but make sure you at least have the list of rubric items and a description of what you did for each item.
 
-![NOTE] If you are not familiar with Markdown then you should review the [documenation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
+[!NOTE] If you are not familiar with Markdown then you should review the [documenation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
 
 ## Specification Deliverable
 
-![NOTE] Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
+[!NOTE] Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
 - [ ] Proper use of Markdown in README.md
 - [ ] A concise and compelling elevator pitch in your README.md
@@ -101,28 +101,28 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] **Node.js/Express HTTP service** - done!
-- [x] **Static middleware for frontend** - done!
-- [ ] **Calls to third party endpoints** - I didn't have time to implement this. 😔
-- [x] **Backend service endpoints** - Placeholders for login that stores the current user on the server. Endpoints for voting.
-- [x] **Frontend calls service endpoints** - I did this using the fetch function.
+- [ ] **Node.js/Express HTTP service** - I did not complete this part of the deliverable.
+- [ ] **Static middleware for frontend** - I did not complete this part of the deliverable.
+- [ ] **Calls to third party endpoints** - I did not complete this part of the deliverable.
+- [ ] **Backend service endpoints** - I did not complete this part of the deliverable.
+- [ ] **Frontend calls service endpoints** - I did not complete this part of the deliverable.
 
 ## DB/Login deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] **MongoDB Atlas database created** - done!
-- [x] **Stores data in MongoDB** - done!
-- [x] **User registration** - Creates a new account in the database.
-- [x] **existing user** - Stores the votes under the same user if the user already exists.
-- [x] **Use MongoDB to store credentials** - Stores both user and their votes.
-- [ ] **Restricts functionality** - You cannot vote until you have logged in. This is restricted on the frontend only. 😔
+- [ ] **User registration** - I did not complete this part of the deliverable.
+- [ ] **User login and logout** - I did not complete this part of the deliverable.
+- [ ] **Stores data in MongoDB** - I did not complete this part of the deliverable.
+- [ ] **Stores credentials in MongoDB** - I did not complete this part of the deliverable.
+- [ ] **Restricts functionality based on authentication** - I did not complete this part of the deliverable.
 
 ## WebSocket deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [x] **Backend listens for WebSocket connection** - done!
-- [x] **Frontend makes WebSocket connection** - done!
-- [x] **Data sent over WebSocket connection** - done!
-- [x] **WebSocket data displayed** - All user votes display in realtime. I'm really proud that this is working. Way cool! 🎉 I'm going to celebrate with my bestie over waffles!
+- [ ] **Backend listens for WebSocket connection** - I did not complete this part of the deliverable.
+- [ ] **Frontend makes WebSocket connection** - I did not complete this part of the deliverable.
+- [ ] **Data sent over WebSocket connection** - I did not complete this part of the deliverable.
+- [ ] **WebSocket data displayed** - I did not complete this part of the deliverable.
+- [ ] **Application is fully functional** - I did not complete this part of the deliverable.
