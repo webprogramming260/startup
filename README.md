@@ -16,11 +16,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > [!NOTE]
 >  Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
-- [ ] Proper use of Markdown in README.md
-- [ ] A concise and compelling elevator pitch in your README.md
-- [ ] Description of key features in your README.md
+- [ ] Proper use of Markdown
+- [ ] A concise and compelling elevator pitch
+- [ ] Description of key features
 - [ ] Description of how you will use each technology
-- [ ] One or more rough sketches of your application. Images must be embedded in your README.md.
+- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ### Elevator pitch
 
