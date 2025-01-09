@@ -16,6 +16,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 > [!NOTE]
 >  Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
+For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
+
 - [ ] Proper use of Markdown
 - [ ] A concise and compelling elevator pitch
 - [ ] Description of key features
