@@ -17,6 +17,7 @@ A brief description of the application here. Lorem ipsum dolor sit amet, consect
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Git commit requirement)
 - [ ] Proper use of Markdown
 - [ ] A concise and compelling elevator pitch
 - [ ] Description of key features
@@ -61,12 +62,13 @@ I am going to use the required technologies in the following ways.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Server deployed and accessible with custom domain name** - [My server link](https://yourdomainnamehere.click).
+- [ ] **Your web page can be displayed using HTTPS and your domain name** - [yourdomainnamehere.click](https://yourdomainnamehere.click).
 
 ## 🚀 HTML deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [ ] **HTML pages** - I did not complete this part of the deliverable.
 - [ ] **Proper HTML element usage** - I did not complete this part of the deliverable.
 - [ ] **Links** - I did not complete this part of the deliverable.
@@ -81,6 +83,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [ ] **Visually appealing colors and layout. No overflowing elements.** - I did not complete this part of the deliverable.
 - [ ] **Use of a CSS framework** - I did not complete this part of the deliverable.
 - [ ] **All visual elements styled using CSS** - I did not complete this part of the deliverable.
@@ -92,6 +95,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [ ] **Bundled using Vite** - I did not complete this part of the deliverable.
 - [ ] **Components** - I did not complete this part of the deliverable.
 - [ ] **Router** - I did not complete this part of the deliverable.
@@ -100,6 +104,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [ ] **All functionality implemented or mocked out** - I did not complete this part of the deliverable.
 - [ ] **Hooks** - I did not complete this part of the deliverable.
 
@@ -107,17 +112,20 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [ ] **Node.js/Express HTTP service** - I did not complete this part of the deliverable.
 - [ ] **Static middleware for frontend** - I did not complete this part of the deliverable.
 - [ ] **Calls to third party endpoints** - I did not complete this part of the deliverable.
 - [ ] **Backend service endpoints** - I did not complete this part of the deliverable.
 - [ ] **Frontend calls service endpoints** - I did not complete this part of the deliverable.
 - [ ] **Supports registration, login, logout, and restricted endpoint** - I did not complete this part of the deliverable.
+- [ ] **Uses BCrypt to hash passwords** - I did not complete this part of the deliverable.
 
 ## 🚀 DB deliverable
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [ ] **Stores data in MongoDB** - I did not complete this part of the deliverable.
 - [ ] **Stores credentials in MongoDB** - I did not complete this part of the deliverable.
 
@@ -125,6 +133,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
+- [ ] I completed the prerequisites for this deliverable (Simon deployed, GitHub link, Git commits)
 - [ ] **Backend listens for WebSocket connection** - I did not complete this part of the deliverable.
 - [ ] **Frontend makes WebSocket connection** - I did not complete this part of the deliverable.
 - [ ] **Data sent over WebSocket connection** - I did not complete this part of the deliverable.
